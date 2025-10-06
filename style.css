@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/10384928/original_a1bc976c377f76468376464d3187c322.png?1611517967?bc=0");
+    background-image: url("https://chatter-salto-a20.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fddd31d8f-5d42-4aea-815f-510753dcd2c8%2FeyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMDU2MTMwOC9vcmlnaW5hbF82ZDJlZWU0MmNlMjc0MmI0NGFkNzQ1YzUwY2NkZjlkMi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsImhlaWdodCI6M.webp?table=block&id=e9993d5a-ac4f-4f9a-985d-e00c1c77a325&spaceId=676a0f1a-b35c-4a56-b0ef-d49d56d7025a&width=1280&userId=&cache=v2");
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
@@ -24,10 +24,11 @@ p {
 }
 
 @media screen and (max-width: 600px) {
-    background-image: url("https://d2w9rnfcy7mm78.cloudfront.net/10657679/original_f54cc6d3372ab956af085e5173abfef6.png?1612830775?bc=0");
+    background-image: url("https://chatter-salto-a20.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d16460d-9212-4fb3-abef-545628c85309%2FeyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxMDU2MTM1NS9vcmlnaW5hbF9mODIxNmM2ZWQzOGYzNDRiY2RjZjE3ZGJiNTViYTlmMy5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjE4MDAsI.webp?table=block&id=9e16a32f-ec38-495d-ba31-14bcaf260845&spaceId=676a0f1a-b35c-4a56-b0ef-d49d56d7025a&width=1280&userId=&cache=v2");
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+
 }
